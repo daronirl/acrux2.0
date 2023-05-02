@@ -95,6 +95,7 @@ span {
 
 .text-box {
   color: #fff;
+  
 
 }
 
@@ -112,6 +113,7 @@ span {
   padding-bottom: 30px;
   width: 90%;
   margin: 0 auto;
+  text-shadow: 2px 2px black;
 
   
 }
@@ -779,10 +781,7 @@ hr {
   }
 
 
-   .text-with-picture {
-     padding-top: 100px;
 
-   }
 
 
    .text-box h1 {

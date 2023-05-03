@@ -1,0 +1,16 @@
+#service-page {
+    background-image: url('/images/service.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position:center; 
+    height: 50vh;
+    padding-bottom: 300px;
+
+    
+}
+
+.con {
+    text-align: center;
+    color: #fff;
+    font-size: 3em;
+}

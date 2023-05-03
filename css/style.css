@@ -10,7 +10,7 @@
 }
 
 #home-page, header {
-  background-image: url('images/stars.jpg');
+  background-image: url('/images/stars.jpg');
   background-size: cover;
   background-repeat: no-repeat;
   height:100vh;
@@ -802,7 +802,7 @@ hr {
 
 @media (min-width: 770px) {
   a {
-    font-size: 1.7em;
+    font-size: 1.5em;
   }
 
 

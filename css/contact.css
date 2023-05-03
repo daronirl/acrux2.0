@@ -1,8 +1,8 @@
 #contact-page {
-    background-image: url('images/contactimg.jpg');
+    background-image: url('/images/contactimg.jpg');
     background-size: cover;
     background-repeat: no-repeat;
-    height: 40vh;
+    height: 50vh;
     padding-bottom: 300px;
 
     

@@ -761,12 +761,14 @@ hr {
     position: fixed;
     left: -100%;
     top: 70px;
-    gap: 0;
+    gap:0;
     flex-direction: column;
-    background-color: #000;
+    background-color: #181a1b;
     width: 100%;
     text-align: center;
     transition: 0.3s;
+   
+
   
   }
   

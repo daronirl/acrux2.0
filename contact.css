@@ -3,6 +3,7 @@
     background-size: cover;
     background-repeat: no-repeat;
     height: 40vh;
+    padding-bottom: 300px;
 
     
 }
@@ -154,7 +155,7 @@
       transition: transform 0.3s, background-color 0.3s;
     }
     #cs-contact-490 .cs-social-link:hover {
-      background-color: var(--primary);
+      background-color: #ba6560;
       transform: translateY(-0.1875rem);
     }
     #cs-contact-490 .cs-social-img {
@@ -245,7 +246,7 @@
       position: absolute;
       height: 100%;
       width: 0%;
-      background: #000;
+      background: #4E4B66;
       opacity: 1;
       top: 0;
       left: 0;

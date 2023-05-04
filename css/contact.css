@@ -11,7 +11,9 @@
 .con {
     text-align: center;
     color: #fff;
-    font-size: 3em;
+    font-family: 'Poppins', sans-serif;
+    font-size: 3.5em;
+    
 }
 
 @media (min-width: 1200px) {
@@ -26,7 +28,7 @@
 
     .con {
        
-        font-size: 5em;
+        font-size: 3.5em;
     }
 }
 

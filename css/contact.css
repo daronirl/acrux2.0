@@ -96,13 +96,13 @@
       position: relative;
     }
     #cs-contact-490 .cs-text {
-      font-size: var(--bodyFontSize);
+      font-size: 1.3em;
       line-height: 1.5em;
       text-align: inherit;
       width: 100%;
       max-width: 40.625rem;
       margin: 0;
-      color: var(--bodyTextColor);
+      color: #000;
     }
     #cs-contact-490 .cs-text {
       /* 16px - 48px */

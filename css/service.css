@@ -4,17 +4,21 @@
     background-repeat: no-repeat;
     background-position:center; 
     height: 50vh;
-    padding-bottom: 300px;
+   
 
     
 }
 
-.con {
+
+  .con {
     text-align: center;
     color: #fff;
     font-size: 3.5em;
     font-family: 'Poppins', sans-serif;
-}
+
+
+
+  }
 
 
 
@@ -219,3 +223,6 @@
     }
   }
                                   
+  
+    
+

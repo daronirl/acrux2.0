@@ -684,7 +684,7 @@ hr {
     transition: transform 0.3s, background-color 0.3s;
   }
   #cs-footer-269 .cs-social-link:hover {
-    background-color: var(--primary);
+    background-color: #4E4B66;
     transform: translateY(-0.1875rem);
   }
   #cs-footer-269 .cs-social-img {
@@ -723,7 +723,7 @@ hr {
 /* MEDIA QUERIES */
 
 
-@media  (min-width: 280px) {
+@media  (min-width: 600px) {
 
   .text-box h1 {
       
@@ -792,7 +792,7 @@ hr {
 
 
    .text-box h1 {
-    font-size:2.2em;
+    font-size:2.4em;
    }
 
 
@@ -847,7 +847,7 @@ hr {
 
 @media  (min-width: 910px) {
   a {
-    font-size: 2.4em;
+    font-size: 2em;
   }
 
   .text-with-picture {
@@ -879,8 +879,8 @@ hr {
   }
 
   .logo-img {
-    height: 180px;
-    width: 150px;
+    height: 240px;
+    width: 180px;
    
   }
   

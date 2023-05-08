@@ -40,7 +40,7 @@ a {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  gap: 60px;
+  gap: 40px;
 
 
 }
@@ -126,7 +126,7 @@ span {
   display: inline-block;
   outline: none;
   cursor: pointer;
-  font-size: 1.4em;
+
   line-height: 20px;
   font-weight: 600;
   border-radius: 8px;
@@ -142,6 +142,10 @@ span {
 .cs-button-2:hover {
   background-color: #4E4B66;
 
+}
+
+.cs-button-2, a {
+  font-size: 1.6em;
 }
 
 
@@ -772,6 +776,7 @@ hr {
     width: 100%;
     text-align: center;
     transition: 0.3s;
+ 
    
 
   

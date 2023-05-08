@@ -201,7 +201,7 @@ hr {
 
 .sec-main p {
   padding-bottom: 30px;
-  font-size: 1.1em;
+  
 }
                             
 
@@ -817,6 +817,8 @@ hr {
 .sec-main p {
   width: 75%;
   margin: auto;
+  font-size: 1.1em;
+  width: 100%;
 }
 
 }
@@ -880,7 +882,7 @@ hr {
 
 
   .sec-main p {
-    width: 70%;
+    width: 100%;
     margin: auto;
    
     font-size: 1.4em;

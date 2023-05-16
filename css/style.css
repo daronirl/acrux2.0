@@ -203,7 +203,55 @@ hr {
   padding-bottom: 30px;
   
 }
-      
+
+/*-- -------------------------- -->
+<---          Portfolio          -->
+<--- -------------------------- -*/
+
+
+.port {
+  margin-top: 50px;
+  margin-bottom: 50px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  text-align: center;
+  font-family: 'Poppins', sans-serif;
+  
+
+}
+
+.port img {
+  height: 250px;
+  width: 250px;
+}
+
+.port-websites {
+  padding-top: 70px;
+  padding-bottom: 70px;
+  border-radius: 5px;
+  box-shadow: 0 0 25px 15px rgba(201, 36, 36, 0.1);
+  border: 1px solid transparent;
+  margin-bottom: 40px;
+  width: 80%;
+
+ 
+}
+
+.port-websites h2 {
+  padding-top: 15px;
+}
+
+.port-websites h4 {
+  width: 75%;
+  padding-top: 10px;
+  margin: 0 auto;
+  font-weight: 300;
+  padding-bottom: 30px;
+ 
+}
+
 
 /*-- -------------------------- -->
 <---          Services          -->
@@ -230,7 +278,7 @@ hr {
   }
   #services-597 {
     /* remove the font family so the Stitch inherits the fonts from your global stylesheet */
-    font-family: 'Roboto', 'Arial', sans-serif;
+    font-family: 'Poppins', sans-serif;
     padding: var(--sectionPadding);
     overflow: hidden;
   }
@@ -885,11 +933,15 @@ hr {
   }
 
 
+
+
 }
  
 
 @media  (max-width: 768px) {
  
+
+
   .hamburger {
     display: block;
   
@@ -958,6 +1010,7 @@ hr {
   width: 100%;
 }
 
+
 }
 
 @media (min-width: 770px) {
@@ -994,6 +1047,11 @@ hr {
    
     font-size: 1.4em;
   }
+  .port-websites {
+    width: 55%;
+   
+  }
+ 
 
 
 }
@@ -1030,6 +1088,9 @@ hr {
     width: 180px;
    
   }
+
+
+  
   
 }
 
@@ -1088,7 +1149,18 @@ hr {
     width: 220px;
    
   }
-  
+
+  .port {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+   
+}
+
+  .port-websites {
+    width: 20%;
+   
+  }
 
 }
 

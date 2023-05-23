@@ -169,6 +169,8 @@ hr {
   padding-top: 100px;
   font-family: 'Lora', serif;
   text-transform: uppercase;
+  font-size: 2rem;
+ 
  
 }
 
@@ -212,7 +214,10 @@ hr {
  padding-top: 2em;
  padding-bottom: 3em;
 
+
 }
+
+
 
 .pro-design p {
   text-align: left;
@@ -220,6 +225,8 @@ hr {
   padding-left: 20px;
   padding-right: 20px;
   font-family: 'Lora', serif;
+ 
+  
 }
 
 .sol-two {
@@ -227,6 +234,7 @@ hr {
   background-repeat: no-repeat;
   background-size: cover;
   color: #fff;
+
 }
 
 
@@ -1026,7 +1034,7 @@ hr {
 
 
 .text-with-picture {
-  padding-top: 100px;
+  padding-top: 30px;
 }
 
 
@@ -1035,9 +1043,6 @@ hr {
    }
 
 
-.create-sol {
-  font-size: 2.3em;
-}
 
 .sec-main p {
   width: 75%;
@@ -1056,7 +1061,7 @@ hr {
 
 
   .text-with-picture {
-    padding-top: 140px;
+    padding-top: 100px;
   }
 
  .text-box h1 {
@@ -1099,15 +1104,15 @@ hr {
 
 
  .text-box h1 {
-    font-size: 2.6em;
+    font-size: 3.6rem;
   }
 
   .text-box p {
-    font-size: 1.7em;
+    font-size: 2rem;
   }
 
   .create-sol {
-    padding-bottom: 100px;
+    padding-bottom: 30px;
   }
 
 
@@ -1203,7 +1208,19 @@ hr {
     padding-bottom: 40px;
   }
 
-  
+  .pro-design {
+    display: flex;
+   
+}
+
+.pro-design p {
+  font-size: 1.2rem;
+}
+
+.solution-piece {
+  width: 75%;
+}
+
 }
 
 

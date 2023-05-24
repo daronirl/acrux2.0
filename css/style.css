@@ -297,9 +297,10 @@ hr {
 .copy {
   display: flex;
   justify-content: center;
+  align-items: center;
   background-color: #ba6560;
   color: #fff;
-  font-size: 0.9rem;
+  font-size: 0.7rem;
 
 }
 

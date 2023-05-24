@@ -9,6 +9,9 @@
   
 }
 
+
+
+
 #home-page, header {
   background-image: url('/images/stars.webp');
   background-size: cover;
@@ -1417,7 +1420,7 @@ hr {
   }
 
   .text-with-picture {
-    padding-top: 190px;
+    padding-top: 20px;
   }
 
  .text-box h1 {

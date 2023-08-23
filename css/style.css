@@ -6,6 +6,7 @@
   padding: 0;
   box-sizing: border-box;
   font-family: 'Lora', serif;
+  scroll-behavior: smooth;
   
 }
 
@@ -1543,7 +1544,7 @@ hr {
     text-align: inherit;
     letter-spacing: .1em;
     font-weight: 700;
-    color: var(--primary);
+    color: #ba6560;
     margin-bottom: 0.25rem;
     display: block;
   }
